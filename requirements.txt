@@ -1,0 +1,7 @@
+langchain
+openai
+html2text
+tiktoken
+pinecone-client
+unstructured
+textloader
